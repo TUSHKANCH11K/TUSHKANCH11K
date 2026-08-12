@@ -17,7 +17,7 @@
 
 ---
 
-## [![About Me](AboutMe.png)](https://github.com/TUSHKANCH11K)
+## [![About Me](AboutMe.jpg)](https://github.com/TUSHKANCH11K)
 
 * Beginner **Frontend Developer**, student from Russia
 * Interested in clean UI, responsive layouts, component-based development, and practical frontend architecture.
@@ -26,7 +26,7 @@
 
 ---
 
-## [![Core Skills](AboutMe.png)](https://github.com/TUSHKANCH11K)
+## [![Core Skills](AboutMe.jpg)](https://github.com/TUSHKANCH11K)
 
 | Категория | Навыки |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## [![Projects](AboutMe.png)](https://github.com/TUSHKANCH11K)
+## [![Projects](AboutMe.jpg)](https://github.com/TUSHKANCH11K)
 
 <details open>
 <summary><b>1) Financial Tracker and Analytics</b> — учёт доходов и расходов с аналитикой</summary>
