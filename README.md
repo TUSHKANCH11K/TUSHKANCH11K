@@ -17,7 +17,7 @@
 
 ---
 
-## About Me
+## [![About Me](AboutMe.png)](https://github.com/TUSHKANCH11K)
 
 * Beginner **Frontend Developer**, student from Russia
 * Interested in clean UI, responsive layouts, component-based development, and practical frontend architecture.
@@ -26,7 +26,7 @@
 
 ---
 
-## Core Skills
+## [![Core Skills](AboutMe.png)](https://github.com/TUSHKANCH11K)
 
 | Категория | Навыки |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Featured Projects
+## [![Projects](AboutMe.png)](https://github.com/TUSHKANCH11K)
 
 <details open>
 <summary><b>1) Financial Tracker and Analytics</b> — учёт доходов и расходов с аналитикой</summary>
@@ -87,5 +87,4 @@ The application is built with React 19, TypeScript, and Vite, with React Router 
   <a href="mailto:vika_kudyaeva@mail.ru">
     <img src="https://img.shields.io/badge/Gmail-F5C6D6?style=for-the-badge&logo=gmail&logoColor=6B5B7A" alt="Gmail"/>
   </a>
-  -->
 </p>
