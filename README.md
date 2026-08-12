@@ -1,4 +1,4 @@
-[![Header](header.png)](https://github.com/TUSHKANCH11K)
+[![Header](header.jpg)](https://github.com/TUSHKANCH11K)
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -17,30 +17,32 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
-* Frontend-разработчик, студент из **России** 🇷🇺
-* Создаю **интерактивные веб-приложения** на React + TypeScript
-* Люблю **чистый UI**, графики и продуманную архитектуру состояния
-* В работе: **Zustand**, **Recharts**, **Tailwind CSS**, **Vite**, **Docker**
+* Beginner **Frontend Developer**, student from Russia
+* Interested in clean UI, responsive layouts, component-based development, and practical frontend architecture.
+* I create **interactive web applications** on React+ TypeScript
+* Currently studying and developing my skills through education and personal practice.
 
 ---
 
-## 🛠 Core Skills
+## Core Skills
 
 | Категория | Навыки |
 |---|---|
 | **Frontend** | React, JavaScript (ES6+), TypeScript, HTML, CSS |
-| **State Management** | Zustand |
+| **Architecture** | Feature-Sliced Design (FSD) |
+| **State Management** | Zustand, MobX |
+| **Data Fetching** | Axios |
 | **Visualization** | Recharts |
-| **Styling** | Tailwind CSS, адаптивная вёрстка |
+| **Styling** | Tailwind CSS, responsive & adaptive design |
 | **Build Tools** | Vite |
-| **Backend & DB** | PostgreSQL |
-| **DevOps & Tools** | Docker, Git |
+| **Backend & DB** | PostgreSQL, Node.js |
+| **DevOps & Tools** | Docker, Git, Proxmox, VirtualBox, CI/CD |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
 <summary><b>1) Financial Tracker and Analytics</b> — учёт доходов и расходов с аналитикой</summary>
@@ -54,44 +56,25 @@
 **Links:**
 - [Repository](https://github.com/TUSHKANCH11K/Financial-Tracker-and-Analytics)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TUSHKANCH11K&repo=Financial-Tracker-and-Analytics&theme=tokyonight&bg_color=FFF8F5&title_color=6B5B7A&text_color=6B5B7A&icon_color=B794C7&border_color=E8D5F2)](https://github.com/TUSHKANCH11K/Financial-Tracker-and-Analytics)
-
 </details>
 
 <details>
-<summary><b>2) SoccerStat</b> — спортивная статистика</summary>
+<summary><b>2) SoccerStat</b> — Frontend application for football statistics </summary>
 
 <br>
 
-Веб-приложение для просмотра футбольной статистики: лиги, команды, матчи.
+SoccerStat is a frontend application for exploring football statistics, including leagues, teams, and match calendars. Originally developed as a test assignment for a SimbirSoft internship, the project successfully passed the technical selection stage.
 
-**Stack:** React, TypeScript, Vite, Tailwind CSS
+The application is built with React 19, TypeScript, and Vite, with React Router for navigation. It integrates with the football-data.org REST API to retrieve league, team, and match data. The project includes search and pagination, match filtering by date range, local time conversion, API error handling, and responsive layouts for mobile, tablet, and desktop. Styling is implemented with CSS Modules, with ESLint and Prettier used for code quality and formatting.
+
+**Stack:** React 19, TypeScript, Vite, React Router 7, CSS Modules, REST API, ESLint, Prettier
 
 **Links:**
 - [Repository](https://github.com/TUSHKANCH11K/SoccerStat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TUSHKANCH11K&repo=SoccerStat&theme=tokyonight&bg_color=FFF8F5&title_color=6B5B7A&text_color=6B5B7A&icon_color=B794C7&border_color=E8D5F2)](https://github.com/TUSHKANCH11K/SoccerStat)
-
 </details>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUSHKANCH11K&show_icons=true&theme=tokyonight&bg_color=FFF8F5&title_color=6B5B7A&text_color=6B5B7A&icon_color=B794C7&border_color=E8D5F2&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=TUSHKANCH11K&theme=tokyonight&background=FFF8F5&ring=B794C7&fire=F5C6D6&currStreakLabel=6B5B7A&sideLabels=6B5B7A&dates=6B5B7A&border=E8D5F2" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUSHKANCH11K&layout=compact&theme=tokyonight&bg_color=FFF8F5&title_color=6B5B7A&text_color=6B5B7A&border_color=E8D5F2" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLeft=E8D5F2&customColorRight=F5C6D6&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%8C%B8&fontSize=24&fontColor=6B5B7A"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/TUSHKANCH11K">
