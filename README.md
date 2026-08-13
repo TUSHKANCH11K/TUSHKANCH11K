@@ -17,7 +17,7 @@
 
 ---
 
-## [![About Me](aboutme.jpg)](https://github.com/TUSHKANCH11K)
+## [![About Me](AboutMe.jpg)](https://github.com/TUSHKANCH11K)
 
 * Beginner **Frontend Developer**, student from Russia
 * Interested in clean UI, responsive layouts, component-based development, and practical frontend architecture.
@@ -28,7 +28,7 @@
 
 ## [![Core Skills](coreskils.jpg)](https://github.com/TUSHKANCH11K)
 
-| Категория | Навыки |
+| Category | Skills |
 |---|---|
 | **Frontend** | React, JavaScript (ES6+), TypeScript, HTML, CSS |
 | **Architecture** | Feature-Sliced Design (FSD) |
@@ -45,11 +45,11 @@
 ## [![Projects](projects.jpg)](https://github.com/TUSHKANCH11K)
 
 <details>
-<summary><b>1) Financial Tracker and Analytics</b> — учёт доходов и расходов с аналитикой</summary>
+<summary><b>1) Financial Tracker and Analytics</b> — accounting for income and expenses with analytics</summary>
 
 <br>
 
-Приложение для учёта финансов: добавление доходов и расходов, фильтрация по категориям, **интерактивные графики** расходов по месяцам, экспорт и импорт данных в JSON/Excel.
+Financial accounting application: adding income and expenses, filtering by category, **interactive graphs** of expenses by month, exporting and importing data to JSON/Excel.
 
 **Stack:** React, TypeScript, Zustand, Recharts, Tailwind CSS, Vite
 
