@@ -17,7 +17,7 @@
 
 ---
 
-## [![About Me](AboutMe.jpg)](https://github.com/TUSHKANCH11K)
+## [![About Me](aboutme.jpg)](https://github.com/TUSHKANCH11K)
 
 * Beginner **Frontend Developer**, student from Russia
 * Interested in clean UI, responsive layouts, component-based development, and practical frontend architecture.
@@ -26,7 +26,7 @@
 
 ---
 
-## [![Core Skills](AboutMe.jpg)](https://github.com/TUSHKANCH11K)
+## [![Core Skills](coreskils.jpg)](https://github.com/TUSHKANCH11K)
 
 | Категория | Навыки |
 |---|---|
@@ -42,9 +42,9 @@
 
 ---
 
-## [![Projects](AboutMe.jpg)](https://github.com/TUSHKANCH11K)
+## [![Projects](projects.jpg)](https://github.com/TUSHKANCH11K)
 
-<details open>
+<details>
 <summary><b>1) Financial Tracker and Analytics</b> — учёт доходов и расходов с аналитикой</summary>
 
 <br>
@@ -76,6 +76,10 @@ The application is built with React 19, TypeScript, and Vite, with React Router 
 
 ---
 
+## [![Footer](footer.jpg)](https://github.com/TUSHKANCH11K)
+
+---
+
 <p align="center">
   <a href="https://github.com/TUSHKANCH11K">
     <img src="https://img.shields.io/badge/GitHub-TUSHKANCH11K?style=for-the-badge&logo=github&logoColor=white&color=6B5B7A" alt="GitHub"/>
@@ -84,7 +88,7 @@ The application is built with React 19, TypeScript, and Vite, with React Router 
   <a href="https://t.me/kkkk_vika">
     <img src="https://img.shields.io/badge/Telegram-B794C7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:vika_kudyaeva@mail.ru">
+  <a href="mailto:viktoria.kudyaeva2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-F5C6D6?style=for-the-badge&logo=gmail&logoColor=6B5B7A" alt="Gmail"/>
   </a>
 </p>
